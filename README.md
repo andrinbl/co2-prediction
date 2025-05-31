@@ -18,7 +18,7 @@ Zur CO₂-Schätzung wird der vorhergesagte Verbrauch mit einem treibstoffspezif
 | Name          | URL |
 |--------------|----|
 | Huggingface  | [Huggingface Space](https://huggingface.co/spaces/bloecand/co2-prediction-app/tree/main) |
-| Code         | [GitHub Repository]() |
+| Code         | [GitHub Repository](https://github.com/andrinbl/co2-prediction/tree/main) |
 
 
 ## Datenquellen
