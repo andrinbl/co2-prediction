@@ -1,0 +1,17 @@
+Vehicle Class,Segment
+MINICOMPACT,Kleinstwagen
+SUBCOMPACT,Kleinwagen
+COMPACT,Kompaktklasse
+MID-SIZE,Mittelklasse
+FULL-SIZE,Oberklasse
+TWO-SEATER,Sportwagen
+STATION WAGON - SMALL,Kompaktklasse Kombi
+STATION WAGON - MID-SIZE,Mittelklasse Kombi
+SUV - SMALL,SUV kompakt
+SUV - STANDARD,SUV gross
+PICKUP TRUCK - SMALL,Nutzfahrzeug leicht
+PICKUP TRUCK - STANDARD,Nutzfahrzeug
+MINIVAN,Van / MPV
+VAN - CARGO,Van / MPV
+VAN - PASSENGER,Van / MPV
+SPECIAL PURPOSE VEHICLE,Spezialfahrzeug
