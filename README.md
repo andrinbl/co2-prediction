@@ -29,7 +29,7 @@ Das Projekt basiert auf einer Kombination zweier öffentlich zugänglicher Daten
 | [Kaggle](https://www.kaggle.com/datasets/debajyotipodder/co2-emission-by-vehicles) | Enthält technische Angaben zu Fahrzeugen, einschliesslich Motorgrösse, Getriebe, Zylinderzahl, Verbrauch und Kraftstofftyp. |
 | [Wikipedia - Fahrzeugklassen](https://de.wikipedia.org/wiki/Fahrzeugklasse) | Enthält eine manuell gepflegte Klassifikation von Fahrzeugsegmenten (z. B. SUV, Kompaktklasse), basierend auf Modellnamen. |
 
-Die Datensätze wurden im Notebook `01_eda.ipynb` bereinigt, zusammengeführt und verarbeitet. Dabei wurden u. a. fehlende Werte bereinigt, das Getriebe binär kodiert, sowie ein neues Feature `consumption_ratio` für das Stadt-/Autobahn-Verhältnis berechnet.
+Die Datensätze wurden im Notebook `01_eda.ipynb` bereinigt, zusammengeführt und verarbeitet. Die eigentliche Feature-Erstellung erfolgte im Notebook  `02_features.ipynb` . Dort wurden u. a. das Getriebe binär kodiert (is_automatic), ein neues Feature consumption_ratio für das Stadt-/Autobahn-Verhältnis berechnet und die finale Feature-Liste für das Modell definiert.
 
 Die Zielvariable ist **„Fuel Consumption Comb (L/100 km)“**. Daraus wird nach der Modellvorhersage in der App der **CO₂-Ausstoss in g/km** abgeleitet.
 
