@@ -113,7 +113,7 @@ Regular Benzin - X, Premium Benzin - Z, Diesel - D, Ethanol - E, Erdgas - N
 | 1        | Kompaktklasse, 1.6 L, manuell, Diesel         | `1.6 L`, `4 Zylinder`, `manuell`, `6 Gänge`, `Gemischt`, `Diesel`                     | 6.49 L/100 km             | 172 g/km                 |
 | 2        | SUV gross, 3.5 L, Automatik, Regular           | `3.5 L`, `6 Zylinder`, `automatik`, `8 Gänge`, `Nur Stadt`,`Regular (Benzin)`             | 12.02 L/100 km             | 280 g/km                 |
 | 3        | Kleinwagen, 1.0 L, manuell, Erdgas            | `1.0 L`, `3 Zylinder`, `manuell`, `5 Gänge`, `Nur Autobahn`,`Premium (Benzin)`                    | 5.89 L/100 km             | 138 g/km                 |
-| 4        | Sportlicher Kleinwagen, 5.0 L, manuell, Ethanol | `5.0 L`, `8 Zylinder`, `manuell`, `6 Gänge`, `Nur Autobahn`,`Regular (Benzin)`            | 20.26 L/100 km            | 304 g/km                 |
+| 4        | Sportlicher Kleinwagen, 5.0 L, manuell, Ethanol | `5.0 L`, `8 Zylinder`, `manuell`, `6 Gänge`, `Nur Autobahn`,`Regular (Benzin)`            | 12.96 L/100 km            | 302 g/km                 |
 
 
 ### Hinweise
