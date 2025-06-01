@@ -141,9 +141,8 @@ Diese Punkte könnten in einer zukünftigen Projektiteration umgesetzt werden, u
 
 ##  Erstellt von
 
-Andrin Blöchlinger
-bloecand
-Modul: AI Applications  
-Dozent: Prof. Benjamin Kühni  
-Frühjahrssemester 2025  
+- Andrin Blöchlinger (bloecand)
+- Modul: AI Applications  
+- Dozent: Prof. Benjamin Kühni  
+- Frühjahrssemester 2025  
 
