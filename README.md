@@ -133,7 +133,7 @@ Regular Benzin - X, Premium Benzin - Z, Diesel - D, Ethanol - E, Erdgas - N
 Obwohl das finale Modell bereits eine sehr hohe Genauigkeit erreicht, gibt es weitere Möglichkeiten zur Optimierung:
 
 - Durch den Einsatz von `GridSearchCV` oder `RandomizedSearchCV` könnten die Modellparameter systematisch optimiert und dadurch sowohl Genauigkeit als auch Robustheit weiter verbessert werden.
-- Zusätzliche oder aktuellere Daten – z. B. für Plug-in-Hybride, Elektrofahrzeuge oder europäische Modelle – würden die Generalisierbarkeit weiter erhöhen.
+- Zusätzliche oder aktuellere Daten – z. B. für Plug-in-Hybride, Elektrofahrzeuge oder europäische Modelle würden die Generalisierbarkeit weiter erhöhen.
 - Merkmale wie Fahrzeuggewicht, Baujahr oder Luftwiderstand könnten helfen, Verbrauch noch präziser vorherzusagen.
 
 Diese Punkte könnten in einer zukünftigen Projektiteration umgesetzt werden, um das Modell weiter zu verbessern und noch näher an reale Verbrauchswerte heranzukommen.
